@@ -1,0 +1,15 @@
+ion-content{
+ display: flexbox;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+ion-card{
+    width: 60%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+}
+
